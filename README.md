@@ -1,4 +1,3 @@
-```markdown
 # Wona Design Studio — Website
 
 A responsive, modern website for **Wona Design Studio**, a strategic creative agency that builds authentic, memorable brands for ambitious businesses and creatives.
@@ -89,6 +88,3 @@ For project inquiries: **hello@wonadesignstudio.com**
 ---
 
 *Crafting Brands, Inspiring Connections.*
-```
-
-Want me to adjust this for a specific stack (e.g., Next.js, Webflow, WordPress) or add a license and contributing section?
